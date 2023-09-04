@@ -90,9 +90,8 @@
 * reduce single point of failure for controls around 
 
     * ex - mandatory time off or vacations  
-    <br>
 
-![sod eample](images/003-sep_of_duties.png)
+![sod eample](images/003.01-sep_of_duties.png)
 
 ## **Keep it Simple** 
 
@@ -116,7 +115,7 @@
 
 * threat intel/modeling
 
-![zta](images/003-zero_trust.png)
+![zta](images/003.02-zero_trust.png)
 
 ## **Secure Defaults**
 
@@ -203,11 +202,17 @@
 
 * Assists orgs in managing privacy risk w/goal of indiviual privacy protection
 
-![priv_by_design](images/003-priv_by_design.png)
+![priv_by_design](images/003.03-priv_by_design.png)
 
 ##### 3 Elements of NIST Priv Framework
 
-![nist_framework_elements](images/003-nist_framework.png)
+* Core: increasingly granular activities & outcomes - dialogue about managing privacy risk
+
+* Profiles - selection of specific functions, categories, & subcat from Core; org prioritizes to help manage privacy risk
+
+* Implimentation tiers - comms about org's processes & resources to manage risk & achieve target profiles
+
+![nist_framework_elements](images/003.04-nist_framework.png)
 
 ## **Trust but Verify**
 
@@ -217,3 +222,8 @@
 
     * SMS not recommended d/t exploits
 
+* Advanced verification = more stringent multi-factors like biometric
+
+* Vendors offer IAM with attribute-based access control (ABAC)
+
+* May lead to AI and UBA to enhanced evaluation of trust
