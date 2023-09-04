@@ -133,7 +133,7 @@ Dr. Don Parker Parkerian Hexad
 
 ### **OSI Reference Model**
 
-![osi ref model](images/002-osi_ref_model.png)  
+![osi ref model](images/002.01-osi_ref_model.png)  
 
 "Please do not throw sausage pizza away"
 
@@ -153,8 +153,8 @@ Presentation -
 
 Application layer 
 
-![osi_protocols](images/002-osi_protocols.png)
+![osi_protocols](images/002.02-osi_protocols.png)
 
 ### **TCP/IP Reference Model**
 
-![tcp_ip model](images/002-tcpip_model.png)
+![tcp_ip model](images/002.03-tcpip_model.png)

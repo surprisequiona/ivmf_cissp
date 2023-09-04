@@ -44,7 +44,7 @@
 
 Domain and Weights:
 
-![domain_weights](images/001-exam_weights.png)
+![domain_weights](images/001.01-exam_weights.png)
 
 <p style="text-align: center;">Exam Weights</p>
 
