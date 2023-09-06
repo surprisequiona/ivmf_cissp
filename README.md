@@ -12,9 +12,9 @@
 
 [Module 5: Security Policy](class_notes/005-security_policy.md)
 
-## Class Notes - Upcoming
+[Module 6: Asset Classification & Lifecycle](class_notes/006-asset_classification_lifecycle.md)
 
-[Module 6: Asset Classification & Lifecycle]
+## Class Notes - Upcoming
 
 [Module 7: Risk Management]
 

@@ -1,4 +1,5 @@
 class_resources/
 *.code-workspace
 .ds_store
+.ignore/
 ```
