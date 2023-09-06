@@ -1,5 +1,9 @@
 # CISSP Study Reference
 
+Class notes for the August 2023 IVMF CISSP cohort.
+
+Probably some misspellings, ignore those.
+
 ## Class Notes - Completed
 
 [Module 1: ISC<sup>2</sup> & Exam](class_notes/001-course_overview.md)
