@@ -22,9 +22,10 @@ Probably some misspellings, ignore those.
 
 [Module 8: Practical Cryptography](class_notes/008-practical_cryptography.md)
 
-## Class Notes - Upcoming
+[Module 9: Identity & Access Management Principles](class_notes/009-identity_and_access_mgmt.md)
 
-[Module 9: Identity & Access Management Principles]
+
+## Class Notes - Upcoming
 
 [Module 10: Deploying Identity & Access Management]
 
