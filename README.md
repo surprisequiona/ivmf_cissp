@@ -18,11 +18,11 @@ Probably some misspellings, ignore those.
 
 [Module 6: Asset Classification & Lifecycle](class_notes/006-asset_classification_lifecycle.md)
 
-## Class Notes - Upcoming
-
 [Module 7: Risk Management](class_notes/007-risk_management.md)
 
 [Module 8: Practical Cryptography](class_notes/008-practical_cryptography.md)
+
+## Class Notes - Upcoming
 
 [Module 9: Identity & Access Management Principles]
 
