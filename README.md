@@ -20,9 +20,9 @@ Probably some misspellings, ignore those.
 
 ## Class Notes - Upcoming
 
-[Module 7: Risk Management]
+[Module 7: Risk Management](class_notes/007-risk_management.md)
 
-[Module 8: Practical Cryptography]
+[Module 8: Practical Cryptography](class_notes/008-practical_cryptography.md)
 
 [Module 9: Identity & Access Management Principles]
 
