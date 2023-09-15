@@ -24,10 +24,9 @@ Probably some misspellings, ignore those.
 
 [Module 9: Identity & Access Management Principles](class_notes/009-identity_and_access_mgmt.md)
 
+[Module 10: Deploying Identity & Access Management](class_notes/010-deploying_iam.md)
 
 ## Class Notes - Upcoming
-
-[Module 10: Deploying Identity & Access Management]
 
 [Module 11: Architecture, Design, & Solutions Vulnerabilities]
 
