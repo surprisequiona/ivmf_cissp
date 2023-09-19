@@ -26,9 +26,9 @@ Probably some misspellings, ignore those.
 
 [Module 10: Deploying Identity & Access Management](class_notes/010-deploying_iam.md)
 
-## Class Notes - Upcoming
+[Module 11: Architecture, Design, & Solutions Vulnerabilities](class_notes/011-solutions_vulnerabilities.md)
 
-[Module 11: Architecture, Design, & Solutions Vulnerabilities]
+## Class Notes - Upcoming
 
 [Module 12: Site & Facility Security]
 
