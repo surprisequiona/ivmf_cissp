@@ -278,7 +278,7 @@
 
 * Can assist w/implementation & enforcement of IAM and SSO
 
-## Distributed Systems
+## **Distributed Systems**
 
 ### Distributed System Attributes
 
@@ -322,7 +322,7 @@
 
 * MACsec at layer2 (802.11AE)
 
-## Internet of Things (IoT)
+## **Internet of Things (IoT)**
 
 * Challenge in discovering vulnerabilities
 
@@ -364,7 +364,7 @@
 
 * Additionally, end of support on ongoing basis
 
-## Containerization, Serverless, & Microservices
+## **Containerization, Serverless, & Microservices**
 
 * Container - isolated abstracted application w/all components (code, bins, libraries, dependencies) included
 
@@ -468,7 +468,7 @@
 
   * One component fails, the entire app doesn't fail (unlike monolithic software/applications)
 
-## Embedded Systems
+## **Embedded Systems**
 
 ### Embedded System Security & Constraints
 
@@ -570,7 +570,7 @@
 
 * UAVs/Drones - recon, hijacking
 
-## Trusted Platform Module (TPM) and Memory Protection
+## **Trusted Platform Module (TPM) and Memory Protection**
 
 ### Boot Integrity using UEFI
 
@@ -648,7 +648,7 @@
 
 * Defines hierarchy of security management standards to secure data from theft & tampering by unauthorized persons who have access to storage device or host system
 
-## HCP and Edge Computing Systems
+## **HCP and Edge Computing Systems**
 
 ### High Performance & Edge Computing
 
