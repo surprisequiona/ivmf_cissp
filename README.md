@@ -28,11 +28,11 @@ Probably some misspellings, ignore those.
 
 [Module 11: Architecture, Design, & Solutions Vulnerabilities](class_notes/011-solutions_vulnerabilities.md)
 
+[Module 12: Site & Facility Security](class_notes/012-site_and_facility_security.md)
+
+[Module 13:  Communication & Network Security](class_notes/013-comms_and_network_security.md)
+
 ## Class Notes - Upcoming
-
-[Module 12: Site & Facility Security]
-
-[Module 13:  Communication & Network Security]
 
 [Module 14: Security Operations]
 
