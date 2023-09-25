@@ -32,9 +32,9 @@ Probably some misspellings, ignore those.
 
 [Module 13:  Communication & Network Security](class_notes/013-comms_and_network_security.md)
 
-## Class Notes - Upcoming
+[Module 14: Security Operations](class_notes/014-security_operations.md)
 
-[Module 14: Security Operations]
+## Class Notes - Upcoming
 
 [Module 15: Business Continuity Planning]
 
