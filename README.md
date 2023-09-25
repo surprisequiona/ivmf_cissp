@@ -34,9 +34,9 @@ Probably some misspellings, ignore those.
 
 [Module 14: Security Operations](class_notes/014-security_operations.md)
 
-## Class Notes - Upcoming
+[Module 15: Business Continuity Planning](class_notes/015-bcp.md)
 
-[Module 15: Business Continuity Planning]
+## Class Notes - Upcoming
 
 [Module 16: Security Assessment & Testing]
 
